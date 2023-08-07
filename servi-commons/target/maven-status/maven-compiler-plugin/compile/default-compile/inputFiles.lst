@@ -1,0 +1,8 @@
+/Users/lucarosato/Desktop/servi-backend/servi-backend/servi-commons/src/main/java/com/rosato/servicommons/util/JwtUtil.java
+/Users/lucarosato/Desktop/servi-backend/servi-backend/servi-commons/src/main/java/com/rosato/servicommons/enums/ImageType.java
+/Users/lucarosato/Desktop/servi-backend/servi-backend/servi-commons/src/main/java/com/rosato/servicommons/dto/JwtPayload.java
+/Users/lucarosato/Desktop/servi-backend/servi-backend/servi-commons/src/main/java/com/rosato/servicommons/kafka/email/ConfirmationCodeRequest.java
+/Users/lucarosato/Desktop/servi-backend/servi-backend/servi-commons/src/main/java/com/rosato/servicommons/kafka/email/EmailLoginNotificationRequest.java
+/Users/lucarosato/Desktop/servi-backend/servi-backend/servi-commons/src/main/java/com/rosato/servicommons/kafka/email/EmailVerifyUserAuth.java
+/Users/lucarosato/Desktop/servi-backend/servi-backend/servi-commons/src/main/java/com/rosato/servicommons/kafka/email/EmailConfirmationCodeResponseNotification.java
+/Users/lucarosato/Desktop/servi-backend/servi-backend/servi-commons/src/main/java/com/rosato/servicommons/enums/Role.java

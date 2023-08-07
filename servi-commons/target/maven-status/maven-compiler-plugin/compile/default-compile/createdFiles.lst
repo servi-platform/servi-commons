@@ -1,0 +1,8 @@
+com/rosato/servicommons/kafka/email/ConfirmationCodeRequest.class
+com/rosato/servicommons/util/JwtUtil.class
+com/rosato/servicommons/kafka/email/EmailConfirmationCodeResponseNotification.class
+com/rosato/servicommons/dto/JwtPayload.class
+com/rosato/servicommons/enums/Role.class
+com/rosato/servicommons/kafka/email/EmailLoginNotificationRequest.class
+com/rosato/servicommons/enums/ImageType.class
+com/rosato/servicommons/kafka/email/EmailVerifyUserAuth.class
